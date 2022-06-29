@@ -32,7 +32,7 @@ p
 
 #title .container-fluid
 {
-  padding: 3% 15% 7%;
+  padding: 1% 15% 7%;
 }
 
 .colored-section
@@ -66,7 +66,7 @@ p
 .nav-link
 {
   font-size: 1.2rem;
-  font-weight: 100;
+  font-weight: bold;
 }
 
 .dl-button
